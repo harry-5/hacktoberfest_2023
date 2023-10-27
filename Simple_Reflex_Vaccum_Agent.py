@@ -1,7 +1,6 @@
 # Solution of the Issue #3
 # Implementation of Simple_Reflex_Vaccum_Agent in Python #3
 
-
 import random
 
 class Environment(object):
