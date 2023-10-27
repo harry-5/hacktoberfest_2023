@@ -1,5 +1,5 @@
-# Solution of the Issue#1
-# Implementation of BFS & DFS in Python
+# Solution of the Issue #1
+# Implementation of BFS & DFS in Python #1
 
 from collections import deque
 
