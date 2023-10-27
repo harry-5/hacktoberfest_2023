@@ -1,6 +1,7 @@
 # Solution of the Issue #1
 # Implementation of BFS & DFS in Python #1
 
+
 from collections import deque
 
 def bfs(node, adj, visited, ans):
