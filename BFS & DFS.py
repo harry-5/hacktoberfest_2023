@@ -1,4 +1,4 @@
-# Solution of the Issue#1
+# Solution of the Issue #1
 # Implementation of BFS & DFS in Python
 
 from collections import deque
@@ -52,3 +52,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
